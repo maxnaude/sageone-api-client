@@ -19,7 +19,7 @@ Usage
 2. Review the supported Sage One API documentation at https://accounting.sageone.co.za/api/1.1.1/Help
 3. Use the Python API client to interact with the API:
 
-    .. code-block:: bash
+    .. code-block:: python
 
         >>> from sageone.client import APIClient
         >>> c = APIClient(
