@@ -1,5 +1,4 @@
-.. image:: https://travis-ci.org/maxnaude/sageone-api-client.svg?branch=master
-    :target: https://travis-ci.org/maxnaude/sageone-api-client
+|travis| |pypi|
 
 sageone-api-client
 ==================
@@ -40,3 +39,9 @@ Testing
 .. code-block:: bash
 
     $ python setup.py test
+
+
+.. |travis| image:: https://travis-ci.org/maxnaude/sageone-api-client.svg?branch=master
+    :target: https://travis-ci.org/maxnaude/sageone-api-client
+.. |pypi| image:: https://badge.fury.io/py/sageone-api-client.svg
+    :target: https://badge.fury.io/py/sageone-api-client
