@@ -1,4 +1,7 @@
 *.sublime-*
 *.pyc
 *.pyo
+/dist
 /ve
+*.egg
+*.egg-info
