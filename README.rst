@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/maxnaude/sageone-api-client.svg?branch=master
+    :target: https://travis-ci.org/maxnaude/sageone-api-client
+
 sageone-api-client
 ==================
 
