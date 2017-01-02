@@ -9,18 +9,18 @@ setup(
     url='https://github.com/maxnaude/sageone-api-client',
     packages=find_packages(),
     dependency_links=[],
-    install_requires=[
-        'hammock==0.2.4'
-    ],
+    install_requires=['hammock==0.2.4'],
+    test_suite='nose.collector',
+    tests_require=['nose', 'responses'],
     include_package_data=True,
     zip_safe=False,
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: BSD License',
-        'Operating System :: POSIX',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
         'Programming Language :: Python',
+        'Topic :: Office/Business :: Financial :: Accounting',
         'Topic :: Software Development :: Libraries :: Python Modules',
-        'Topic :: System :: Networking',
     ],
 )
