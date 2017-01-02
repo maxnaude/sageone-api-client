@@ -31,3 +31,9 @@ Usage
         >>> print(r)
 
 
+Testing
+-------
+
+.. code-block:: bash
+
+    $ python setup.py test
